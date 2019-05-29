@@ -3,6 +3,10 @@
 声明：
 emp = {'name':'tom','age':20 , 'salary':8000.00}
 book = dict(title = 'python',author = 'tom',price = 90.00)
+
+Set声明：
+不包含重复的对象
+S = {1,2,3,4} type(s) -> set
 Date:2019/5/29 21:35 
 """
 emp = {'name':'tom','age':20 , 'salary':8000.00}
