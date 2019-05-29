@@ -11,6 +11,7 @@ import time
 def main():
     content = '北京欢迎你为你开天辟地....'
     while True:
+        # 清理屏幕上的输出
         os.system('cls')
         print(content)
         time.sleep(0.2)
